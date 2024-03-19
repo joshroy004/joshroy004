@@ -2,10 +2,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joshroy004)
 
-• 🏫 I’m currently working on **Dynamo** 
-• 🌱 I’m currently learning about **Data Analysis for Gene Editing**
-• 💬 Loves to hear about **Startups, Businesses, AI, Emerging Tech, Biotech**
-• 👷🏼‍♂️ [View My Contributions](https://github.com/joshroy004)
+- 🏫 I’m currently working on **Dynamo** 
+- 🌱 I’m currently learning about **Data Analysis for Gene Editing**
+- 💬 Loves to hear about **Startups, Businesses, AI, Emerging Tech, Biotech**
 
 ## Connect with me:
 <a href="https://linkedin.com/in/joshroy-teenentrepreneur"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" style="display: inline;"></a>
