@@ -1,16 +1,14 @@
-### Hi there 👋
+### Yo, I'm Josh 👋
 
-<!--
-**joshroy004/joshroy004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![trophy](https://github-profile-trophy.vercel.app/?username=joshroy004)
 
-Here are some ideas to get you started:
+- 🏫 I’m currently working on **Dynamo** 
+- 🌱 I’m currently learning about **Data Analysis for Gene Editing**
+- 💬 Ask me about **Startups, Businesses, Entrepreneurship, Emerging Tech, Mindsets**
+- 👷🏼‍♂️ [View My Contributions](https://github.com/joshroy004)
+- 📫 How to reach me: [Twitter](https://twitter.com/j0shroy), [LinkedIn](https://linkedin.com/in/joshroy-teenentrepreneur)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[Twitter](https://twitter.com/j0shroy) | [LinkedIn](https://linkedin.com/in/joshroy-teenentrepreneur) | [YouTube](https://www.youtube.com/channel/@TheCapitalTycoonPodcast)
+
+Josh's GitHub stats (https://github-readme-stats.vercel.app/api?username=joshroy004&show_icons=true&theme=radical)
