@@ -2,7 +2,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joshroy004)
 
-- 🏫 I’m currently working on **Dynamo** 
+- 🏫 I’m currently working on **Project Dynamo** 
 - 🌱 I’m currently learning about **Data Analysis for Gene Editing**
 - 💬 Loves to hear about **AI, Emerging Tech, Biotech**
 
