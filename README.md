@@ -1,4 +1,4 @@
-### Hey, I'm Josh 👋
+### Yo, I'm Josh 👋
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joshroy004)
 
