@@ -2,9 +2,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joshroy004)
 
-- 🏫 I’m currently working on **Project Dynamo** 
+- 🏫 I’m currently working on **Project Dynamo** and hacking various other projects
 - 🌱 I’m currently learning about **Data Analysis for Gene Editing**
-- 💬 Loves to hear about **AI, Emerging Tech, Biotech**
+- 💬 Loves to hear about **AI, Emerging Tech, Startups, Biotech**
 
 ## Connect with me:
 <a href="https://linkedin.com/in/joshroy-teenentrepreneur"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" style="display: inline;"></a>
