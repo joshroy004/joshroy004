@@ -10,7 +10,6 @@ def chatbot_response(user_input):
         "agent": "I’m escalating your issue to a customer support agent. Please hold on."
     }
 
-    # Check for keywords in user input
     for key in responses:
         if key in user_input.lower():
             return responses[key]
@@ -19,6 +18,7 @@ def chatbot_response(user_input):
 
 # Streamlit UI
 st.set_page_config(page_title="Verizon AI Chatbot", page_icon="🤖", layout="centered")
+
 st.title("📡 Verizon AI-Powered Complaint Resolution Chatbot")
 st.write("Automated assistance for common Verizon customer service issues. Type your issue below.")
 
