@@ -26,4 +26,3 @@ user_input = st.text_input("How can I assist you today?")
 if user_input:
     response = chatbot_response(user_input)
     st.write("\n**Chatbot:**", response)
-
