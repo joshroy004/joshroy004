@@ -1,6 +1,6 @@
 import streamlit as st
-import random
 
+# Function to generate chatbot responses
 def chatbot_response(user_input):
     responses = {
         "billing issue": "I see you're experiencing a billing issue. Would you like to review your latest charges or request a refund?",
@@ -9,7 +9,8 @@ def chatbot_response(user_input):
         "refund request": "I can process a refund request. Could you provide your account details?",
         "agent": "I’m escalating your issue to a customer support agent. Please hold on."
     }
-    
+
+    # Check for keywords in user input
     for key in responses:
         if key in user_input.lower():
             return responses[key]
@@ -17,12 +18,14 @@ def chatbot_response(user_input):
     return "I'm not sure how to help with that. Would you like to speak with an agent?"
 
 # Streamlit UI
-st.title("Verizon AI-Powered Complaint Resolution Chatbot")
-st.write("Automated assistance for common Verizon customer service issues.")
+st.set_page_config(page_title="Verizon AI Chatbot", page_icon="🤖", layout="centered")
+st.title("📡 Verizon AI-Powered Complaint Resolution Chatbot")
+st.write("Automated assistance for common Verizon customer service issues. Type your issue below.")
 
 # User input
-user_input = st.text_input("How can I assist you today?")
+user_input = st.text_input("How can I assist you today?", key="input")
 
+# Display chatbot response
 if user_input:
     response = chatbot_response(user_input)
-    st.write("\n**Chatbot:**", response)
+    st.markdown(f"**Chatbot:** {response}")
